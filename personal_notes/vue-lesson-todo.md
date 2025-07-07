@@ -765,3 +765,10 @@ button {
 </style>
 
 ```
+
+### 動画配信主のホームページ
+
+https://marine-sphere.com/articles/vue/vue-complete
+
+
+
