@@ -9,7 +9,8 @@ services:
       - 8080:8080
     volumes:
       - ./app:/app
-    tty: true
+    tty: true        
+    stdin_open: true
     environment:
       - NODE_ENV=development
 
